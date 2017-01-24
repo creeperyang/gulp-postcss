@@ -1,0 +1,1 @@
+{"version":3,"sources":["style/a.css","style/b.css"],"names":[],"mappings":"AAAA;AACA;ACDA;AACA","file":"all.css","sourcesContent":["body {color: #333;}\n","body {margin: 0;}\n"],"sourceRoot":"../../demo/assets"}
